@@ -4,3 +4,6 @@ https://www.youtube.com/watch?v=o5b_pQrc1MI
 
 
 client download: https://download1349.mediafire.com/zz361uibf25ga8vEkvpwUpoQm8JLUQdXxpdCrXPgF2E4BYQcAAVy0_zczvJrSNwyakWTIo3KWRTrqXN4rcmLuv_NIHaBZaZbuPP9zjBsrSv6-zGcZ9VyIGkCLzdRckUkjBOqqDzisYH1_OXNsH9ewwiBfEKQVKlerbTeHuFb5Ck/v18xb15kceyiy3p/ext1605_20_client.jar
+
+
+server download: https://download1073.mediafire.com/0tbol6hec0fgD_LsdqZy1Jg5_UQsOJWSGdETxgfn7zIfurJ2D_dZc7kvHi9K_KY-hs3aLvk2ucFc3v5NOwNQb-gFR2TJiPANDDJUtmeHSb-UYVUBoPFatLBtikwHFIJ_Pn5yy_fJGxnWUR3MuHV0BNbnxP4iyHpiINe-_mQR2VY/j0t9nv114i011go/ext1605_20_server.jar
